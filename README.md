@@ -126,6 +126,13 @@ AI 전문가들과 함께 문제 해결 방법을 고민하고 경험을 공유�
     </td>
     <td>
       <a href="https://github.com/Timmy-Oh/NSML_Naver_AI_Hackathon_2018">바로가기</a>
+      SOCC
+    </td>
+    <td>
+      네이버 영화 평점 예측, 네이버 지식인 제목유사도 비교
+    </td>
+    <td>
+      <a href="https://github.com/socc-io/bknet">바로가기</a>
     </td>
   </tr>
 </table>
